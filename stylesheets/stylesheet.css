@@ -73,6 +73,11 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -1px;
 }
 
+logo {
+   width: 140px;
+   background: url('../images/opensimulator_logo_140px.png') repeat-x bottom;
+}
+
 h1 {
   font-size: 36px;
   font-weight: 700;
